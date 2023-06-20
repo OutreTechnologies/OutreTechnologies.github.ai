@@ -11,12 +11,6 @@ As the CTO, I have meticulously compiled a list encompassing infrastructure, dev
    - [ ] Tooling: Cloud service provider tools (e.g., AWS Elastic Compute Cloud, Azure Virtual Machines, Google Compute Engine).
    - [ ] Estimated Time: 2-3 months.
 
-### High-Speed Internet Connectivity
-   - [ ] Description: Ensure reliable and high-bandwidth internet connectivity to support continuous operations.
-   - [ ] Implementation Strategy: Evaluate and choose a reliable internet service provider (ISP) with suitable bandwidth options.
-   - [ ] Tooling: ISP services.
-   - [ ] Estimated Time: 1-2 weeks.
-
 ### Redundancy and Disaster Recovery
    - [ ] Description: Implement redundancy and backup mechanisms to minimize downtime and data loss.
    - [ ] Implementation Strategy: Set up redundant servers, implement data backup strategies, and establish disaster recovery protocols.
@@ -30,12 +24,6 @@ As the CTO, I have meticulously compiled a list encompassing infrastructure, dev
    - [ ] Estimated Time: 1-2 months.
 
 ## Development Culture:
-
-### Agile Methodology
-   - [ ] Description: Adopt an agile development approach to enable iterative and incremental product development, ensuring rapid adaptation to changing market needs.
-   - [ ] Implementation Strategy: Train development teams in agile methodologies (e.g., Scrum, Kanban) and establish agile processes.
-   - [ ] Tooling: Project management tools (e.g., Jira, Trello, Asana) for agile project tracking.
-   - [ ] Estimated Time: 2-3 months.
 
 ### Collaboration Tools
    - [ ] Description: Utilize collaborative platforms to enhance communication and project management within development teams.
@@ -159,8 +147,6 @@ As the CTO, I have meticulously compiled a list encompassing infrastructure, dev
    - [ ] Tooling: Applicant tracking systems (ATS) and recruitment platforms (e.g., LinkedIn, Glassdoor).
    - [ ] Estimated Time: 1-2 months.
 
-Certainly! Here's an additional category for data storage requirements, following the same format:
-
 ## Data Storage Requirements:
 
 ### Scalable and Reliable Data Storage Solution
@@ -185,4 +171,4 @@ Certainly! Here's an additional category for data storage requirements, followin
    - [ ] Description: Ensure compliance with data privacy regulations and implement appropriate measures to protect customer data.
    - [ ] Implementation Strategy: Assess regulatory requirements (e.g., GDPR, CCPA), implement data encryption, access controls, and auditing mechanisms to safeguard sensitive data.
    - [ ] Tooling: Encryption tools, access control mechanisms, compliance management platforms (e.g., OneTrust, TrustArc).
-   - [ ] Estimated Time: Ongoing, with periodic assessments and updates.
+   <br> [ ] Estimated Time: Ongoing, with periodic assessments and updates.
