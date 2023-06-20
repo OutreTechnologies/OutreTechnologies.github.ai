@@ -1,4 +1,4 @@
-# OutreTechnologies Tech Ops
+# Outre Technologies Tech Ops
 
 **Infrastructure Requirements:**
 
