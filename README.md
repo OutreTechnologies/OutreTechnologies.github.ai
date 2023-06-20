@@ -1,4 +1,4 @@
-# OutreTechnologies.github.ai
+# OutreTechnologies Tech Ops
 
 **Infrastructure Requirements:**
 
